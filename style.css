@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .block1 {
+    background-color: #25525e;
+    color: white;
+    margin-top: 50px;
+    padding-top: 15px;
+  }
+
+  .bullets {
+    color: rgb(212, 151, 38);
+    display: inline-block;
+  }
+  .bullet-point {
+    color: rgb(255, 255, 255);
+  }
+  .Intro-text {
+    color: #25525e;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .bullets {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+  }
+  .image {
+    width: 100%;
+  }
+  .text
+  {
+  color: #0E737F;
+  }
